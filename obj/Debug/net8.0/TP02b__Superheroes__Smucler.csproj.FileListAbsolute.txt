@@ -1,0 +1,14 @@
+Z:\4to\Programación\TP02b__Superheroes__Smucler\bin\Debug\net8.0\TP02b__Superheroes__Smucler.exe
+Z:\4to\Programación\TP02b__Superheroes__Smucler\bin\Debug\net8.0\TP02b__Superheroes__Smucler.deps.json
+Z:\4to\Programación\TP02b__Superheroes__Smucler\bin\Debug\net8.0\TP02b__Superheroes__Smucler.runtimeconfig.json
+Z:\4to\Programación\TP02b__Superheroes__Smucler\bin\Debug\net8.0\TP02b__Superheroes__Smucler.dll
+Z:\4to\Programación\TP02b__Superheroes__Smucler\bin\Debug\net8.0\TP02b__Superheroes__Smucler.pdb
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\TP02b__Superheroes__Smucler.GeneratedMSBuildEditorConfig.editorconfig
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\TP02b__Superheroes__Smucler.AssemblyInfoInputs.cache
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\TP02b__Superheroes__Smucler.AssemblyInfo.cs
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\TP02b__Superheroes__Smucler.csproj.CoreCompileInputs.cache
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\TP02b__Superheroes__Smucler.dll
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\refint\TP02b__Superheroes__Smucler.dll
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\TP02b__Superheroes__Smucler.pdb
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\TP02b__Superheroes__Smucler.genruntimeconfig.cache
+Z:\4to\Programación\TP02b__Superheroes__Smucler\obj\Debug\net8.0\ref\TP02b__Superheroes__Smucler.dll

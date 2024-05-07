@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TP02b__Superheroes__Smucler/1.0.0": {
+        "runtime": {
+          "TP02b__Superheroes__Smucler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP02b__Superheroes__Smucler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
